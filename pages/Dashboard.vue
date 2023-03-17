@@ -16,6 +16,9 @@
                     <RedCarpetBlock />
                 </div>
                 <div class="col-md-6 mb-4">
+                    <ValidateNftBlock />
+                </div>
+                <div class="col-md-6 mb-4">
                     <ContractsBlock />
                 </div>
             </div>
